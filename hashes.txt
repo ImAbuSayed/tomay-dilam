@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tomay Dilam
+
+This log tracks the cryptographic history and versioning for the song **Tomay Dilam** (tomay-dilam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T08:11:05.943216 | `v1` | `a3b67e4a7dad4eb44366d432ad0638c3470120c686ff74adec39f1ef939255c6` | `53183c0bfc2dd046ce6f0947226fdc5757090cc5f15256b4509b5c6f81e17158` | `2026-05-10_tomay-dilam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

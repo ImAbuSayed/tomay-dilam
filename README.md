@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tomay-dilam/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tomay Dilam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomay-dilam/) |
+| **Get License** | [Get a Licensing Quote for Tomay Dilam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomay-dilam/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a3b67e4a7dad4eb44366d432ad0638c3470120c686ff74adec39f1ef939255c6` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
