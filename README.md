@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tomay-dilam/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tomay Dilam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomay-dilam/) |
+| **Get License** | [Official Music Licensing for Tomay Dilam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomay-dilam/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নেশার মত তোমার ঐ চোখ বুকের ভেতর জ্বালে আগুন
+> ইচ্ছে করে হারিয়ে যেতে বাজছে প্রেমের অচিন ধুন
+> কাছে এসো বুকের ভেতর মাতাল করা এই সন্ধ্যায়
+> তোমায় ছাড়া বাঁচে না প্রাণ মন যে শুধু তোমায় চায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
